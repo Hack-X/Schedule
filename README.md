@@ -11,8 +11,9 @@ Programme du Workshop 2015
   * Terminer le workshop 3, et avoir débuté son projet en créant ses premiers modèles et un début de backoffice
 
 * Semaine du 12 Octobre: Déploiement API et Backoffice
+  * Pensez à implémenter vos features de manière incrémentale : pour la présentation du 20 octobre, mieux vaut avoir un simple back office qui gère la table des utilisateurs plutôt que de n'avoir rien à présenter parce que vous vous êtes attaqués à un morceau trop gros que vous n'avez pas réussi à terminer. **Commencez par faire marcher les choses simples, et faites grossir le projet petit à petit.**
 
-* #### Mardi 20 Octobre : Séance de mi-parcours 
+* #### Mardi 20 Octobre : Séance de mi-parcours
 
 * Semaine du 26 Octobre: Workshop Mobile 1
 
