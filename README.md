@@ -11,6 +11,7 @@ Programme du Workshop 2016
   * Le modèle de données est terminé et validé par le coach
 
 * Jeudi 13 Octobre : Séance de mi-parcours ?
+  * Présentation de user stories avec des mockups
 
 * Vacances
 
