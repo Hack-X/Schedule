@@ -15,8 +15,8 @@ Programme du Workshop 2016
 
 * Vacances
 
-*  Jeudi 3 Novembre :
+*  Jeudi 3 Novembre
 
-* Jeudi 10 Novembre : Workshop Mobile 1
+* Jeudi 10 Novembre
 
 * #### Jeudi 17 Novembre: Présentation des projets devant Jury
