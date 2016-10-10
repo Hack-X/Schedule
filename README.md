@@ -1,4 +1,4 @@
-# Schedule
+# Schedule 2016
 Programme du Workshop 2016
 
 * #### Jeudi 22 Septembre : Kick-off
@@ -12,7 +12,9 @@ Programme du Workshop 2016
 
 * Jeudi 13 Octobre : Coaching Skype
 
-* Dimanche 16 Octobre : rendu de mi-parcours (backoffice + présentation du projet)
+* Dimanche 16 Octobre : Rendu de mi-parcours (backoffice + présentation du projet) [https://goo.gl/forms/UlNvdbmkZhFk75uG2](https://goo.gl/forms/UlNvdbmkZhFk75uG2)
+
+* Jeudi 20 Novembre
 
 * Vacances
 
@@ -20,4 +22,4 @@ Programme du Workshop 2016
 
 * Jeudi 10 Novembre
 
-* #### Mardi 15 Novembre: Présentation des projets devant Jury à Paris.
+* #### Mardi 15 Novembre à 18h30 : Présentation des projets devant Jury à Paris.
