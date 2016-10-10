@@ -9,6 +9,7 @@ Programme du Workshop 2016
 
 * Jeudi 6 Octobre: Tous les workshops ([Mobile #1](https://github.com/Workshop-Polytechnique/Mobile_Workshop_1) et [#2](https://github.com/Workshop-Polytechnique/Mobile_Workshop_2) + [Back #1](https://github.com/Workshop-Polytechnique/Back_Workshop_1) [#2](https://github.com/Workshop-Polytechnique/Back_Workshop_2) [#3](https://github.com/Workshop-Polytechnique/Back_Workshop_3)) doivent être terminés. Les autres sont bonus ([Back #4](https://github.com/Workshop-Polytechnique/Back_Workshop_4) et [Mobile #3](https://github.com/Workshop-Polytechnique/Mobile_Workshop_3) ).
   * Le modèle de données est terminé et validé par le coach.
+  * Lancement de vos projets
 
 * Jeudi 13 Octobre : Coaching Skype
 
