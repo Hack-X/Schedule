@@ -3,13 +3,13 @@ Programme du Workshop 2017
 
 * #### Jeudi 28 Septembre : Kick-off à Palaiseau
 
-* ## Jeudi 5 Octobre : Initiation GitHub & Installation de l'API (NodeJS, Mongo, Express)
-
-* ## Jeudi 12 Octobre : Installation du front
+* ## Jeudi 12 Octobre : Initiation GitHub & Installation de l'API (NodeJS, Mongo, Express)
 
 * ## Jeudi 19 Octobre :
 
 * ## Jeudi 26 Octobre :
+
+* ## Jeudi 2 Novembre :
 
 * ## Jeudi 9 Novembre :
 
